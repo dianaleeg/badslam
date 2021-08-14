@@ -1,5 +1,4 @@
-How to Setup BADSLAM on Ubuntu Linux:
-
+**How to Setup BADSLAM on Ubuntu Linux:**
 -- Beware, there are many packages to install and many kinks to resolve along the way bc ~software. 
 
 1. Install BOOST
